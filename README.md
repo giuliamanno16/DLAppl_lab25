@@ -3,7 +3,7 @@ Deep Learning Applications – Lab Collection
 Questa repository contiene i notebook dei 4 laboratori del corso Deep Learning Applications (DLAppl). Ogni laboratorio esplora un tema diverso e avanzato del Deep Learning applicato.
 | Lab                         | Titolo                                                   | Descrizione                                                                                                 |
 | --------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Lab1-CNNs.ipynb**         | *Multilayer Perceptron & CNN su MNIST/CIFAR10*           | Implementazione MLP e CNN, monitoraggio con TensorBoard, knowledge distillation con ResNet18 come teacher.  |
+| **Lab1-CNNs.ipynb**         | *Multilayer Perceptron, CNN e ResNet su MNIST/CIFAR10*           | Implementazione MLP e CNN, monitoraggio con TensorBoard, knowledge distillation con ResNet18 come teacher.  |
 | **DLA-Lab2-DRL.ipynb**      | *Deep Reinforcement Learning*                            | Allenamento con REINFORCE per l’ambiente LunarLander-v2, analisi delle prestazioni, confronto con baseline. |
 | **Lab3-Transformers.ipynb** | *Sentiment Classification & Fine-tuning BERT*            | Classificazione binaria con SVM e fine-tuning di DistilBERT, uso di LoRA (PEFT), confronto prestazionale.   |
 | **Lab4\_OOD\_2025.ipynb**   | *Out-of-Distribution Detection & Adversarial Robustness* | OOD detection con MSP e Autoencoder, attacchi FGSM mirati e non, robustezza e metriche ROC/PR.              |
@@ -26,7 +26,7 @@ cd DLAppl_lab25
 
 python3 -m venv venv
 
-source venv/bin/activate  # oppure venv\Scripts\activate su Windows
+source venv/bin/activate  #oppure venv\Scripts\activate su Windows
 
 pip install -r requirements.txt
 
