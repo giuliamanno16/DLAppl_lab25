@@ -9,7 +9,7 @@ Questo laboratorio esplora l'algoritmo REINFORCE per il controllo di ambienti Gy
 Puoi eseguire il notebook:
 
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/DLA-Lab2-DRL.ipynb)
-- [Visualizza su GitHub 🔗](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/DLA-Lab2-DRL.ipynb)
+- [Visualizza su GitHub ](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/DLA-Lab2-DRL.ipynb)
 
 ### Requisiti
 
