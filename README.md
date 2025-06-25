@@ -17,22 +17,24 @@ Questa repository contiene i notebook dei 4 laboratori del corso Deep Learning A
 
 ### **Clona la repository:**
 
+```bash
 git clone https://github.com/giuliamanno16/DLAppl_lab25.git
 
 cd DLAppl_lab25
-
+```
 ### **Crea un ambiente virtuale e installa le dipendenze:**
 
+```bash
 python3 -m venv venv
 
 source venv/bin/activate  #oppure venv\Scripts\activate su Windows
 
 pip install -r requirements.txt
-
+```
 ### **Esegui i notebook:**
-
+```bash
 jupyter notebook
-
+```
 # Requisiti
 
 Tutti i notebook sono compatibili con Python ≥ 3.8. I pacchetti richiesti includono:
