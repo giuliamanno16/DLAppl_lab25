@@ -9,7 +9,7 @@ L’ultimo laboratorio esplora metodi per rilevare dati fuori distribuzione e di
 Puoi eseguire il notebook:
 
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/Lab4_OOD_2025.ipynb)
-- [Visualizza su GitHub 🔗](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab4_OOD_2025.ipynb)
+- [Visualizza su GitHub ](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab4_OOD_2025.ipynb)
 
 ### Requisiti
 
