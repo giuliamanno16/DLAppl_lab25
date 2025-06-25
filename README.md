@@ -14,6 +14,11 @@ Questa repository contiene i notebook dei 4 laboratori del corso Deep Learning A
 **Su Google Colab**
 Puoi aprire ogni notebook direttamente su Colab cliccando su: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_del_file_su_Colab)
 
+### 🔬 Lab 1 – CNNs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/Lab1-CNNs.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Notebook-blue?logo=github)](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab1-CNNs.ipynb)
+
 **Localmente (conda o virtualenv)**
 
 **Clona la repository:**
