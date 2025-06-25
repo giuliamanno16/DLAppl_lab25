@@ -11,18 +11,17 @@ Questa repository contiene i notebook dei 4 laboratori del corso Deep Learning A
 
 # Esecuzione dei Notebook
 
-**Su Google Colab**
-Puoi aprire ogni notebook direttamente su Colab 
+## **Con Google Colab**
 
-**Localmente (conda o virtualenv)**
+## **Localmente (conda o virtualenv)**
 
-**Clona la repository:**
+### **Clona la repository:**
 
 git clone https://github.com/giuliamanno16/DLAppl_lab25.git
 
 cd DLAppl_lab25
 
-**Crea un ambiente virtuale e installa le dipendenze:**
+### **Crea un ambiente virtuale e installa le dipendenze:**
 
 python3 -m venv venv
 
@@ -30,7 +29,7 @@ source venv/bin/activate  #oppure venv\Scripts\activate su Windows
 
 pip install -r requirements.txt
 
-**Esegui i notebook:**
+### **Esegui i notebook:**
 
 jupyter notebook
 
