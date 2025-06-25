@@ -1,23 +1,18 @@
 # DLAppl_lab25
 Deep Learning Applications – Lab Collection
 Questa repository contiene i notebook dei 4 laboratori del corso Deep Learning Applications (DLAppl). Ogni laboratorio esplora un tema diverso e avanzato del Deep Learning applicato.
-| Lab                         | Titolo                                                   | Descrizione                                                                                                 |
-| --------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Lab1-CNNs.ipynb**         | *Multilayer Perceptron, CNN e ResNet su MNIST/CIFAR10*           | Implementazione MLP e CNN, monitoraggio con TensorBoard, knowledge distillation con ResNet18 come teacher.  |
-| **DLA-Lab2-DRL.ipynb**      | *Deep Reinforcement Learning*                            | Allenamento con REINFORCE con e senza baseline (anche Value Baseline), analisi delle prestazioni. |
-| **Lab3-Transformers.ipynb** | *Sentiment Classification & Fine-tuning BERT*            | Classificazione binaria con SVM e fine-tuning di DistilBERT, uso di LoRA (PEFT), confronto prestazionale.   |
-| **Lab4\_OOD\_2025.ipynb**   | *Out-of-Distribution Detection & Adversarial Robustness* | OOD detection con MSP e Autoencoder, attacchi FGSM mirati e non, robustezza e metriche ROC/PR.              |
+| Lab                         | Titolo                                                   | Descrizione                                                                                                 | Colab                                                                                                 | GitHub                                                                                          |
+|----------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Lab1-CNNs.ipynb**         | *Multilayer Perceptron, CNN e ResNet su MNIST/CIFAR10*   | Implementazione MLP e CNN, monitoraggio con TensorBoard, knowledge distillation con ResNet18 come teacher. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/Lab1-CNNs.ipynb) | [GitHub 🔗](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab1-CNNs.ipynb)         |
+| **DLA-Lab2-DRL.ipynb**      | *Deep Reinforcement Learning*                            | Allenamento con REINFORCE con e senza baseline (anche Value Baseline), analisi delle prestazioni.          | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/DLA-Lab2-DRL.ipynb) | [GitHub 🔗](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/DLA-Lab2-DRL.ipynb)      |
+| **Lab3-Transformers.ipynb** | *Sentiment Classification & Fine-tuning BERT*            | Classificazione binaria con SVM e fine-tuning di DistilBERT, uso di LoRA (PEFT), confronto prestazionale.   | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/Lab3-Transformers.ipynb) | [GitHub 🔗](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab3-Transformers.ipynb) |
+| **Lab4_OOD_2025.ipynb**     | *Out-of-Distribution Detection & Adversarial Robustness* | OOD detection con MSP e Autoencoder, attacchi FGSM mirati e non, robustezza e metriche ROC/PR.              | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/Lab4_OOD_2025.ipynb) | [GitHub 🔗](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab4_OOD_2025.ipynb)     |
 
 
 # Esecuzione dei Notebook
 
 **Su Google Colab**
-Puoi aprire ogni notebook direttamente su Colab cliccando su: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_del_file_su_Colab)
-
-### 🔬 Lab 1 – CNNs
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuliamanno16/DLAppl_lab25/blob/main/Lab1-CNNs.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Notebook-blue?logo=github)](https://github.com/giuliamanno16/DLAppl_lab25/blob/main/Lab1-CNNs.ipynb)
+Puoi aprire ogni notebook direttamente su Colab 
 
 **Localmente (conda o virtualenv)**
 
